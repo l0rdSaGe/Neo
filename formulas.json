@@ -1,0 +1,11 @@
+
+{
+  "math": [
+    {"name": "Quadratic Formula", "formula": "x = [-b ± sqrt(b²-4ac)] / 2a"},
+    {"name": "Area of Circle", "formula": "A = πr²"}
+  ],
+  "physics": [
+    {"name": "Newton's Second Law", "formula": "F = ma"},
+    {"name": "Kinetic Energy", "formula": "KE = 0.5mv²"}
+  ]
+}

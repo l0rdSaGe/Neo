@@ -1,0 +1,17 @@
+
+name: neocasio_flutter_app
+description: A Flutter-based advanced Casio-style calculator.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_math_fork: ^0.6.5
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/formulas.json
